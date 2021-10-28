@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+#SvelteKit
+build/
+.svelte-kit
+package/
+static/images/
+
+static/*.png
+static/*.svg
+static/*.ico
