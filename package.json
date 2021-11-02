@@ -24,7 +24,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"svelte-swiper": "^1.0.1",
-		"swiper": "^7.0.9"
+		"svelte-hero-icons": "^3.0.0"
 	}
 }
